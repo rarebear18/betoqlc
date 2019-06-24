@@ -1,0 +1,8 @@
+print('Como es la pregunta de beto?')
+Calidad_pregunta_beto = input
+if Calidad_pregunta_beto == 'weona':
+  print("BETO QLO AWEONAO NO PREGUNTIS WEAAAAS")
+elif Calidad_pregunta_beto == "razonable":
+  print("Menos mal xd")
+else:
+  print("Escribe bien aweonao")
